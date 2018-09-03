@@ -12,9 +12,9 @@
 - Jekyll 3 website for this organisation.
 - Uses takao repository files as a template
 - Needs images to update the logo and needs pages.
-- Added MIT License
 
 
 
-                                   Copyright (C) 2018 Johnjimy Som <jimysom@yahoo.com>,
-                                                      Shinesunny Som <som.sunny@yahoo.com>
+                                                        MIT License
+
+                                  Copyright (c) 2018 無礼だけＢＯＹＳ   ｘ    ふりかけ男子
