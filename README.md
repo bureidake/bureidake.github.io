@@ -16,5 +16,5 @@
 
 
 
-                                   Copyright (C) 2018 Johnjimy Som <johnjimysom@yahoo.co.jp>,
+                                   Copyright (C) 2018 Johnjimy Som <jimysom@yahoo.com>,
                                                       Shinesunny Som <som.sunny@yahoo.com>
