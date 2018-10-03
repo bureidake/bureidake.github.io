@@ -15,7 +15,10 @@
         <img src="https://img.shields.io/badge/development-ongoing-lightgreen.svg"
             alt="development"></a>
      <a href="#dependencies">
-        <img src="https://img.shields.io/badge/jerkyll- Jekyll 3, javascript, css-yellowgreen.svg"
+        <img src="https://img.shields.io/badge/jekyll- 3.8.4-red.svg"
+            alt="dependencies"></a>
+     <a href="#dependencies">
+        <img src="https://img.shields.io/badge/html- javascript, css-yellowgreen.svg"
             alt="dependencies"></a>
 </p>
 
