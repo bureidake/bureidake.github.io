@@ -1,0 +1,3 @@
+Type: TXT
+Host: _github-pages-challenge-bureidake.archvillain.jp
+Value: 94ac259659ca0beba21450a47b5121
